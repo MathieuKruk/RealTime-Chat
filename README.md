@@ -143,10 +143,10 @@ function test() {
 
 ## ◾ Credits
 Team
-   - [Matthieu Duranton](https://pages.github.com/MatthieuDuranton)
-   - [Guillaume Dery](https://pages.github.com/GuillaumeDery98)
+   - [Matthieu Duranton](https://github.com/MatthieuDuranton)
+   - [Guillaume Dery](https://github.com/GuillaumeDery98)
    - [? Surprise Guest ?](https://pages.github.com)
-   - [Mathieu Kruk](https://pages.github.com/MathieuKruk)
+   - [Mathieu Kruk](https://github.com/MathieuKruk)
 
 <br>
 <hr>
