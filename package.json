@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GuillaumeDery98/Real-time-Chat.git"
+    "url": "git+https://github.com/MathieuKruk/RealTime-Chat.git"
   },
   "keywords": [
     "Exercise",
@@ -21,9 +21,9 @@
   "author": "Math, Guillaume, Matth, Kiza",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GuillaumeDery98/Real-time-Chat/issues"
+    "url": "https://github.com/MathieuKruk/RealTime-Chat/issues"
   },
-  "homepage": "https://github.com/GuillaumeDery98/Real-time-Chat#readme",
+  "homepage": "https://github.com/MathieuKruk/RealTime-Chat#readme",
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.7.13",
