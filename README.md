@@ -144,7 +144,7 @@ function test() {
 Team
    - [Matthieu Duranton](https://github.com/MatthieuDuranton)
    - [Guillaume Dery](https://github.com/GuillaumeDery98)
-   - [? Surprise Guest ?](https://pages.github.com)
+   - [François Thibaut de Maisières](https://github.com/notfrancoistm)
    - [Mathieu Kruk](https://github.com/MathieuKruk)
 
 <br>
