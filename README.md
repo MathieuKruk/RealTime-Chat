@@ -99,8 +99,7 @@ Logs
 ## ◾ Tech/framework used
 
 1. Front-end
-   - [Vue.js](https://vuejs.org/)
-   - [Bootstrap](https://getbootstrap.com/)
+   - 
    
 2. Back-end
    - [Node.js](https://nodejs.org/en/)
