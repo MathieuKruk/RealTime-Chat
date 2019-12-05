@@ -71,7 +71,7 @@ and {socket}[Socket.IO].
 - [x] Work on the main project.
 - [ ] Launch the app.
 
-ℹ️ For further informations, please make sure to visit our **Trello** [board](https://trello.com/b/NSohfKPi/real-time-chat) (actually avaible only in french).
+ℹ️ For further informations, please make sure to visit our **Trello** [board](https://trello.com/b/NSohfKPi/real-time-chat) (only in french).
 
 <br>
 <hr>
