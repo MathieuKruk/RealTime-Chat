@@ -163,7 +163,3 @@ OpenSource | Free
 <br>
 <hr>
 <br>
-
-✍🏻 **ReadMe Author:**
-
-*Mathieu Kruk*
