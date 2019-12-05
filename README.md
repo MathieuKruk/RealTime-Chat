@@ -99,7 +99,8 @@ Logs
 ## ◾ Tech/framework used
 
 1. Front-end
-   - 
+   - [Vue.js](https://vuejs.org/)
+   - [Twitter Bootstrap](https://getbootstrap.com/)
    
 2. Back-end
    - [Node.js](https://nodejs.org/en/)
@@ -144,7 +145,7 @@ function test() {
 Team
    - [Matthieu Duranton](https://github.com/MatthieuDuranton)
    - [Guillaume Dery](https://github.com/GuillaumeDery98)
-   - [? Surprise Guest ?](https://pages.github.com)
+   - [François Thibaut de Maisières](https://github.com/notfrancoistm)
    - [Mathieu Kruk](https://github.com/MathieuKruk)
 
 <br>

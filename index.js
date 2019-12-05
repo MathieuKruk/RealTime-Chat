@@ -69,6 +69,15 @@ io.on('connection', function(socket){
     });
 });
 
+// Nous créons un objet de type Express. 
+var app = express(); 
+ 
+// On transforme la data pour qu'elle soit utilisable en req.body
+var bodyParser = require("body-parser"); 
+app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.json());
+ 
+// Monitoring du serveur.
 http.listen(port, function(){
   console.log('listening on *:' + port);
 });
