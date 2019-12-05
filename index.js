@@ -3,9 +3,6 @@ const http = require('http').Server(express);
 
 //communiquer avec la db via le serveur : utiliser mongoose
 const mongoose = require('mongoose');
-//Appeler mongodb:
-//const MongoClient = require('mongodb').MongoClient;
-
 
 //connecter les clients entre eux via le serveur
 const io = require('socket.io')(http);
