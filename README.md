@@ -92,6 +92,9 @@ Logs
 
 ## ◾ Screenshots
 
+<p align="center">
+  <img src="https://s14-eu5.startpage.com/cgi-bin/serveimage?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F9%2F9b%2FSocial_Network_Analysis_Visualization.png&sp=faebc9faffea40798896f3bee0603df8&anticache=403882">
+</p>
 <br>
 <hr>
 <br>
