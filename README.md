@@ -3,7 +3,6 @@
 <ul>
   <li>Real-time chat is a dynamic website application.</li>
   <li>It provides a secure and anonymous chat service that respects the user privacy.</li>
-  <li>It has been developed especially for the urban culture.</li>
 </ul>
 
 ℹ️ Development started on 02/12/2019.
