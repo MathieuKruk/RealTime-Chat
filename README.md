@@ -113,12 +113,6 @@ Logs
 <hr>
 <br>
 
-## ◾ API Reference
-
-<br>
-<hr>
-<br>
-
 ## ◾ Features
 
 <ul>
