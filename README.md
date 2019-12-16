@@ -1,11 +1,16 @@
 # RealTime Chat 💬
 
+## ◾ Features
+
 <ul>
   <li>Real-time chat is a dynamic website application.</li>
   <li>It provides a secure and anonymous chat service that respects the user privacy.</li>
+
 </ul>
 
-ℹ️ Development started on 02/12/2019.
+<br>
+<hr>
+<br>
 
 <p align="center">
   <img src="https://s14-eu5.startpage.com/cgi-bin/serveimage?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F9%2F9b%2FSocial_Network_Analysis_Visualization.png&sp=faebc9faffea40798896f3bee0603df8&anticache=403882">
