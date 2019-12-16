@@ -8,17 +8,13 @@
 
 </ul>
 
-<br>
 <hr>
-<br>
 
 <p align="center">
   <img src="https://s14-eu5.startpage.com/cgi-bin/serveimage?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F9%2F9b%2FSocial_Network_Analysis_Visualization.png&sp=faebc9faffea40798896f3bee0603df8&anticache=403882">
 </p>
 
-<br>
 <hr>
-<br>
 
 ## ◾ Motivation
 
@@ -64,9 +60,7 @@ and {socket}[Socket.IO].
 
 ▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️
 
-<br>
 <hr>
-<br>
 
 ## ◾ Tasks
 
@@ -76,9 +70,7 @@ and {socket}[Socket.IO].
 
 ℹ️ For further informations, please make sure to visit our **Trello** [board](https://trello.com/b/NSohfKPi/real-time-chat) (only in french).
 
-<br>
 <hr>
-<br>
 
 ## ◾ Build status
 
@@ -89,9 +81,7 @@ Logs
    - ...
    - ...
 
-<br>
 <hr>
-<br>
 
 ## ◾ Screenshots
 
@@ -99,14 +89,13 @@ Logs
 <p align="center">
   <img src="apiArchitecture.jpg">
 </p>
-<br>
+
 <hr>
-<br>
 
 ## ◾ Tech/framework used
 
 1. Front-end
-   - [Vue.js](https://vuejs.org/)
+   - [React](https://reactjs.org/)
    - [Bootstrap](https://getbootstrap.com/)
    
 2. Back-end
@@ -114,9 +103,7 @@ Logs
      - [Express.js](https://expressjs.com/)
      - [Socket.io](https://socket.io/)
 
-<br>
 <hr>
-<br>
 
 ## ◾ Code Example
 
@@ -125,9 +112,8 @@ function test() {
   console.log("This is a test for code input?");
 }
 ```
-<br>
+
 <hr>
-<br>
 
 ## ◾ Credits
 Team
@@ -136,16 +122,12 @@ Team
    - [François Thibaut de Maisières](https://github.com/notfrancoistm)
    - [Mathieu Kruk](https://github.com/MathieuKruk)
 
-<br>
 <hr>
-<br>
 
 ## ◾ License
 
 OpenSource | Free
 
-<br>
 <hr>
-<br>
 
 ✍️ Readme Author: Mathieu Kruk 
