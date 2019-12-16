@@ -1,4 +1,4 @@
-# ◼️ OurStreets Chat:
+# OurStreets Chat:
 
 <ul>
   <li>Real-time chat is a dynamic website application.</li>
