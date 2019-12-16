@@ -118,19 +118,6 @@ Logs
 <hr>
 <br>
 
-## ◾ Features
-
-<ul>
-  <li>Real-time Chatbox</li>
-  <li>Pre-organized channels</li>
-  <li></li>
-  <li></li>
-</ul>
-
-<br>
-<hr>
-<br>
-
 ## ◾ Code Example
 
 ```
