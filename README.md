@@ -130,4 +130,12 @@ OpenSource | Free
 
 <hr>
 
-✍️ Readme Author: Mathieu Kruk 
+<p align="right">
+ ✍️ Readme Author:
+  <br>
+  <a href="https://github.com/MathieuKruk">Mathieu Kruk</a>
+</p>
+
+<p align="right">
+  <img src="https://media.giphy.com/media/114NEaW5Q5Gikw/giphy.gif" height="30%" width="15%">
+</p>
