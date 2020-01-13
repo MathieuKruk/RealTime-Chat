@@ -1,4 +1,4 @@
-# RealTime Chat 💬
+# 💬 RealTime Chat
 
 ## ◾ Features
 
